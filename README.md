@@ -1,6 +1,6 @@
 <!-- ![Name gif](res/screedbot.gif) -->
 
-![Banner](res/banner.png)
+<img src="https://github.com/yash3001/yash3001/blob/master/res/banner.png" />
 
 <p align="center"> 
   <!-- Visitor count<br> -->
