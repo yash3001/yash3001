@@ -44,6 +44,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Remove Ads from Among Us Android for Free using Ubuntu and Apktool (2020)](https://www.youtube.com/watch?v=CKLrlZKRahA)
 - [Install Ubuntu 20.04 LTS on VirtualBox in Windows 10 (2020) | VirtualBox Guest Additions](https://www.youtube.com/watch?v=0nNb3xuvT3w)
 - [How to customize you bash prompt to make it look awesome](https://www.youtube.com/watch?v=rgaGMc2rlYo)
@@ -67,6 +68,8 @@
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="Yash's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yash3001&count_private=true&show_icons=true&theme=cobalt" />
 </details>
+
+<br />
 
 <details>
 <summary>:zap: Most Used Languages</summary>
