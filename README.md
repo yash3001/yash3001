@@ -90,6 +90,7 @@
 [youtube]: https://www.youtube.com/channel/UCxDr3Ju1Pcbku4Twg38B96w?sub_confirmation=1
 [instagram]: https://www.instagram.com/ya_ch.sh/
 [linkedin]: https://linkedin.com/
+
 [linux]: https://www.archlinux.org/
 [visual studio]: https://code.visualstudio.com/
 [vim]: https://neovim.io/
