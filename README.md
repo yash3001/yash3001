@@ -56,6 +56,10 @@
 
 ---
 
+![](https://github-readme-stats.vercel.app/api?username=yash3001&count_private=true&show_icons=true&theme=cobalt)
+
+---
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
@@ -68,13 +72,6 @@
 <!--END_SECTION:activity-->
 
 </details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Yash's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yash3001&count_private=true&show_icons=true&theme=cobalt" />
-</details>
-
-<br />
 
 <details>
 <summary>:zap: Most Used Languages</summary>
