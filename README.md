@@ -1,4 +1,6 @@
-![](res/screedbot.gif)
+<br />
+
+![Screedbot Gif](res/screedbot.gif)
 
 <br />
 
