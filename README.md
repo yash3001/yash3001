@@ -62,7 +62,8 @@
 ➡️ [more videos...](https://youtube.com/mccoders)
 
 ---
-![](https://github-readme-stats.vercel.app/api?username=yash3001&count_private=true&theme=cobalt)
+
+![Visitor Count](https://github-readme-stats.vercel.app/api?username=yash3001&count_private=true&theme=cobalt)
 
 ---
 
@@ -80,9 +81,15 @@
 </details>
 
 <details>
-<summary>:zap: Most Used Languages</summary>
-  <img align="left" alt="Yash's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash3001&langs_count=10" />
-</details>
+  <summary>:zap: Most Used Languages</summary>
+    <img align="left" alt="Yash's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash3001&langs_count=10" />  
+  </details>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/yash3001/count.svg" />
+</p>
+
 
 [website]: https://yash3001.github.io/mccoders
 [twitter]: https://twitter.com/codeSTACKr
