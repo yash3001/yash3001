@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Ruined by coronavirus
-- ⚡ Fun fact: I love linux, literally.
+- ⚡ Fun fact: I use arch linux, btw.😉
 
 <br />
 
