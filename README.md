@@ -69,6 +69,7 @@
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
+  <br />
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/ISSA-NIE/ISSA-dynamic/issues/2) in [ISSA-NIE/ISSA-dynamic](https://github.com/ISSA-NIE/ISSA-dynamic)
@@ -77,13 +78,15 @@
 4. 💪 Opened PR [#5](https://github.com/rishabh-jain424/open-source-applications-or-tools/pull/5) in [rishabh-jain424/open-source-applications-or-tools](https://github.com/rishabh-jain424/open-source-applications-or-tools)
 5. 💪 Opened PR [#9](https://github.com/darkmatter18/cheatsheet/pull/9) in [darkmatter18/cheatsheet](https://github.com/darkmatter18/cheatsheet)
 <!--END_SECTION:activity-->
-
+  <br />
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-    <img align="left" alt="Yash's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash3001&langs_count=10" />  
-  </details>
+  <br />
+  <img alt="Yash's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash3001&langs_count=10" />  
+  <br /> 
+</details>
 
 <p align="center"> 
   Visitor count<br>
