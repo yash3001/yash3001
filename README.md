@@ -56,7 +56,7 @@
 - [Download Ngrok for Linux | 2020](https://www.youtube.com/watch?v=q22zrumZVyc)
 - [Remove Ads from Among Us Android for Free using Ubuntu and Apktool (2020)](https://www.youtube.com/watch?v=CKLrlZKRahA)
 - [Install Ubuntu 20.04 LTS on VirtualBox in Windows 10 (2020) | VirtualBox Guest Additions](https://www.youtube.com/watch?v=0nNb3xuvT3w)
-- [How to customize you bash prompt to make it look awesome](https://www.youtube.com/watch?v=rgaGMc2rlYo)
+- [How to customize your bash prompt to make it look awesome](https://www.youtube.com/watch?v=rgaGMc2rlYo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mccoders)
