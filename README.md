@@ -72,9 +72,9 @@
   <br />
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/ISSA-NIE/ISSA-dynamic/issues/2) in [ISSA-NIE/ISSA-dynamic](https://github.com/ISSA-NIE/ISSA-dynamic)
-2. 💪 Opened PR [#2](https://github.com/ISSA-NIE/ISSA-dynamic/pull/2) in [ISSA-NIE/ISSA-dynamic](https://github.com/ISSA-NIE/ISSA-dynamic)
-3. 💪 Opened PR [#27](https://github.com/arverma007/TowardsDataEngineering/pull/27) in [arverma007/TowardsDataEngineering](https://github.com/arverma007/TowardsDataEngineering)
+1. ❗️ Opened issue [#10](https://github.com/SHUR1K-N/MeetNinja-Google-Meet-Bot/issues/10) in [SHUR1K-N/MeetNinja-Google-Meet-Bot](https://github.com/SHUR1K-N/MeetNinja-Google-Meet-Bot)
+2. 🗣 Commented on [#2](https://github.com/ISSA-NIE/ISSA-dynamic/issues/2) in [ISSA-NIE/ISSA-dynamic](https://github.com/ISSA-NIE/ISSA-dynamic)
+3. 💪 Opened PR [#2](https://github.com/ISSA-NIE/ISSA-dynamic/pull/2) in [ISSA-NIE/ISSA-dynamic](https://github.com/ISSA-NIE/ISSA-dynamic)
 4. 💪 Opened PR [#5](https://github.com/rishabh-jain424/open-source-applications-or-tools/pull/5) in [rishabh-jain424/open-source-applications-or-tools](https://github.com/rishabh-jain424/open-source-applications-or-tools)
 5. 💪 Opened PR [#9](https://github.com/darkmatter18/cheatsheet/pull/9) in [darkmatter18/cheatsheet](https://github.com/darkmatter18/cheatsheet)
 <!--END_SECTION:activity-->
