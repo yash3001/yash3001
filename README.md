@@ -72,11 +72,11 @@
   <br />
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/yash3001/youtube/pull/1) in [yash3001/youtube](https://github.com/yash3001/youtube)
-2. 💪 Opened PR [#1](https://github.com/yash3001/youtube/pull/1) in [yash3001/youtube](https://github.com/yash3001/youtube)
-3. ❗️ Closed issue [#10](https://github.com/SHUR1K-N/MeetNinja-Google-Meet-Bot/issues/10) in [SHUR1K-N/MeetNinja-Google-Meet-Bot](https://github.com/SHUR1K-N/MeetNinja-Google-Meet-Bot)
-4. ❗️ Opened issue [#10](https://github.com/SHUR1K-N/MeetNinja-Google-Meet-Bot/issues/10) in [SHUR1K-N/MeetNinja-Google-Meet-Bot](https://github.com/SHUR1K-N/MeetNinja-Google-Meet-Bot)
-5. 🗣 Commented on [#2](https://github.com/ISSA-NIE/ISSA-dynamic/issues/2) in [ISSA-NIE/ISSA-dynamic](https://github.com/ISSA-NIE/ISSA-dynamic)
+1. 💪 Opened PR [#3](https://github.com/ISSA-NIE/ISSA_Dynamic_Web/pull/3) in [ISSA-NIE/ISSA_Dynamic_Web](https://github.com/ISSA-NIE/ISSA_Dynamic_Web)
+2. 🎉 Merged PR [#1](https://github.com/yash3001/youtube/pull/1) in [yash3001/youtube](https://github.com/yash3001/youtube)
+3. 💪 Opened PR [#1](https://github.com/yash3001/youtube/pull/1) in [yash3001/youtube](https://github.com/yash3001/youtube)
+4. ❗️ Closed issue [#10](https://github.com/SHUR1K-N/MeetNinja-Google-Meet-Bot/issues/10) in [SHUR1K-N/MeetNinja-Google-Meet-Bot](https://github.com/SHUR1K-N/MeetNinja-Google-Meet-Bot)
+5. ❗️ Opened issue [#10](https://github.com/SHUR1K-N/MeetNinja-Google-Meet-Bot/issues/10) in [SHUR1K-N/MeetNinja-Google-Meet-Bot](https://github.com/SHUR1K-N/MeetNinja-Google-Meet-Bot)
 <!--END_SECTION:activity-->
   <br />
 </details>
