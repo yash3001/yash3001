@@ -72,11 +72,11 @@
   <br />
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/ISSA-NIE/ISSA_Dynamic_Web/pull/3) in [ISSA-NIE/ISSA_Dynamic_Web](https://github.com/ISSA-NIE/ISSA_Dynamic_Web)
-2. 🎉 Merged PR [#1](https://github.com/yash3001/youtube/pull/1) in [yash3001/youtube](https://github.com/yash3001/youtube)
-3. 💪 Opened PR [#1](https://github.com/yash3001/youtube/pull/1) in [yash3001/youtube](https://github.com/yash3001/youtube)
-4. ❗️ Closed issue [#10](https://github.com/SHUR1K-N/MeetNinja-Google-Meet-Bot/issues/10) in [SHUR1K-N/MeetNinja-Google-Meet-Bot](https://github.com/SHUR1K-N/MeetNinja-Google-Meet-Bot)
-5. ❗️ Opened issue [#10](https://github.com/SHUR1K-N/MeetNinja-Google-Meet-Bot/issues/10) in [SHUR1K-N/MeetNinja-Google-Meet-Bot](https://github.com/SHUR1K-N/MeetNinja-Google-Meet-Bot)
+1. 🗣 Commented on [#2](https://github.com/yash3001/Meet-God/issues/2) in [yash3001/Meet-God](https://github.com/yash3001/Meet-God)
+2. 🎉 Merged PR [#3](https://github.com/yash3001/Meet-God/pull/3) in [yash3001/Meet-God](https://github.com/yash3001/Meet-God)
+3. 💪 Opened PR [#3](https://github.com/yash3001/Meet-God/pull/3) in [yash3001/Meet-God](https://github.com/yash3001/Meet-God)
+4. ❗️ Closed issue [#2](https://github.com/yash3001/Meet-God/issues/2) in [yash3001/Meet-God](https://github.com/yash3001/Meet-God)
+5. 🗣 Commented on [#2](https://github.com/yash3001/Meet-God/issues/2) in [yash3001/Meet-God](https://github.com/yash3001/Meet-God)
 <!--END_SECTION:activity-->
   <br />
 </details>
