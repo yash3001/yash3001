@@ -76,7 +76,7 @@
 2. 🗣 Commented on [#2](https://github.com/yash3001/Meet-God/issues/2) in [yash3001/Meet-God](https://github.com/yash3001/Meet-God)
 3. 🗣 Commented on [#2](https://github.com/yash3001/Meet-God/issues/2) in [yash3001/Meet-God](https://github.com/yash3001/Meet-God)
 4. 🗣 Commented on [#2](https://github.com/yash3001/Meet-God/issues/2) in [yash3001/Meet-God](https://github.com/yash3001/Meet-God)
-5. 🎉 Merged PR [#3](https://github.com/yash3001/Meet-God/pull/3) in [yash3001/Meet-God](https://github.com/yash3001/Meet-God)
+5. 🗣 Commented on [#2](https://github.com/yash3001/Meet-God/issues/2) in [yash3001/Meet-God](https://github.com/yash3001/Meet-God)
 <!--END_SECTION:activity-->
   <br />
 </details>
