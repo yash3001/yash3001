@@ -73,10 +73,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/yash3001/Meet-God/issues/2) in [yash3001/Meet-God](https://github.com/yash3001/Meet-God)
-2. 🎉 Merged PR [#3](https://github.com/yash3001/Meet-God/pull/3) in [yash3001/Meet-God](https://github.com/yash3001/Meet-God)
-3. 💪 Opened PR [#3](https://github.com/yash3001/Meet-God/pull/3) in [yash3001/Meet-God](https://github.com/yash3001/Meet-God)
-4. ❗️ Closed issue [#2](https://github.com/yash3001/Meet-God/issues/2) in [yash3001/Meet-God](https://github.com/yash3001/Meet-God)
-5. 🗣 Commented on [#2](https://github.com/yash3001/Meet-God/issues/2) in [yash3001/Meet-God](https://github.com/yash3001/Meet-God)
+2. 🗣 Commented on [#2](https://github.com/yash3001/Meet-God/issues/2) in [yash3001/Meet-God](https://github.com/yash3001/Meet-God)
+3. 🎉 Merged PR [#3](https://github.com/yash3001/Meet-God/pull/3) in [yash3001/Meet-God](https://github.com/yash3001/Meet-God)
+4. 💪 Opened PR [#3](https://github.com/yash3001/Meet-God/pull/3) in [yash3001/Meet-God](https://github.com/yash3001/Meet-God)
+5. ❗️ Closed issue [#2](https://github.com/yash3001/Meet-God/issues/2) in [yash3001/Meet-God](https://github.com/yash3001/Meet-God)
 <!--END_SECTION:activity-->
   <br />
 </details>
