@@ -72,8 +72,8 @@
   <br />
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/yash3001/Meet-God/issues/2) in [yash3001/Meet-God](https://github.com/yash3001/Meet-God)
-2. 🗣 Commented on [#2](https://github.com/yash3001/Meet-God/issues/2) in [yash3001/Meet-God](https://github.com/yash3001/Meet-God)
+1. ❗️ Closed issue [#4](https://github.com/yash3001/Meet-God/issues/4) in [yash3001/Meet-God](https://github.com/yash3001/Meet-God)
+2. 🗣 Commented on [#4](https://github.com/yash3001/Meet-God/issues/4) in [yash3001/Meet-God](https://github.com/yash3001/Meet-God)
 3. 🗣 Commented on [#2](https://github.com/yash3001/Meet-God/issues/2) in [yash3001/Meet-God](https://github.com/yash3001/Meet-God)
 4. 🗣 Commented on [#2](https://github.com/yash3001/Meet-God/issues/2) in [yash3001/Meet-God](https://github.com/yash3001/Meet-God)
 5. 🗣 Commented on [#2](https://github.com/yash3001/Meet-God/issues/2) in [yash3001/Meet-God](https://github.com/yash3001/Meet-God)
