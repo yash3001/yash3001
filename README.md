@@ -6,10 +6,11 @@
 
 ## I'm a Student, Developer, and Youtuber!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Ruined by coronavirus
-- ⚡ Fun fact: I use arch linux, btw 😉
+- 🌱 I’m currently learning everything.
+- ⌨️ I like competitive programming(3\* on codechef) and fast typing(100wpm).
+- 👯 I’m looking to collaborate with other content creators.
+- 🥅 2020 Goals: Ruined by coronavirus.
+- ⚡ Fun fact: I use arch linux, btw 😉.
 
 <br />
 
@@ -52,6 +53,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Easiest Way to Install Kali Linux 2020.4 in Virtual Box on Windows 10 in 2021](https://www.youtube.com/watch?v=4MxvvwEuTtU)
 - [I Made A Google Meet Bot That Attends My Online Meetings Using Python](https://www.youtube.com/watch?v=vUAe3PhwdqI)
 - [Download Ngrok for Linux in 2021](https://www.youtube.com/watch?v=q22zrumZVyc)
@@ -93,13 +95,11 @@
   <img src="https://profile-counter.glitch.me/yash3001/count.svg" />
 </p>
 
-
 [website]: https://yash3001.github.io/mccoders
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://www.youtube.com/channel/UCxDr3Ju1Pcbku4Twg38B96w?sub_confirmation=1
 [instagram]: https://www.instagram.com/ya_ch.sh/
 [linkedin]: https://linkedin.com/
-
 [linux]: https://www.archlinux.org/
 [visual studio]: https://code.visualstudio.com/
 [vim]: https://neovim.io/
