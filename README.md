@@ -53,7 +53,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
 - [Easiest Way to Install Kali Linux 2020.4 in Virtual Box on Windows 10 in 2021](https://www.youtube.com/watch?v=4MxvvwEuTtU)
 - [I Made A Google Meet Bot That Attends My Online Meetings Using Python](https://www.youtube.com/watch?v=vUAe3PhwdqI)
 - [Download Ngrok for Linux in 2021](https://www.youtube.com/watch?v=q22zrumZVyc)
