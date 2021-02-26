@@ -53,6 +53,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Easiest Way to Install Kali Linux 2020.4 in Virtual Box on Windows 10 in 2021](https://www.youtube.com/watch?v=4MxvvwEuTtU)
 - [I Made A Google Meet Bot That Attends My Online Meetings Using Python](https://www.youtube.com/watch?v=vUAe3PhwdqI)
 - [Download Ngrok for Linux in 2021](https://www.youtube.com/watch?v=q22zrumZVyc)
@@ -73,11 +74,6 @@
   <br />
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/yash3001/Meet-God/issues/4) in [yash3001/Meet-God](https://github.com/yash3001/Meet-God)
-2. 🗣 Commented on [#4](https://github.com/yash3001/Meet-God/issues/4) in [yash3001/Meet-God](https://github.com/yash3001/Meet-God)
-3. 🗣 Commented on [#2](https://github.com/yash3001/Meet-God/issues/2) in [yash3001/Meet-God](https://github.com/yash3001/Meet-God)
-4. 🗣 Commented on [#2](https://github.com/yash3001/Meet-God/issues/2) in [yash3001/Meet-God](https://github.com/yash3001/Meet-God)
-5. 🗣 Commented on [#2](https://github.com/yash3001/Meet-God/issues/2) in [yash3001/Meet-God](https://github.com/yash3001/Meet-God)
 <!--END_SECTION:activity-->
   <br />
 </details>
