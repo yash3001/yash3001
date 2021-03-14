@@ -73,7 +73,7 @@
   <br />
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#50](https://github.com/jamesgeorge007/github-activity-readme/issues/50) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. 🎉 Merged PR [#2](https://github.com/yash3001/mcbot/pull/2) in [yash3001/mcbot](https://github.com/yash3001/mcbot)
 <!--END_SECTION:activity-->
   <br />
 </details>
