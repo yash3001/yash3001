@@ -73,7 +73,7 @@
   <br />
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/yash3001/piano-tiles-auto-clicker/issues/1) in [yash3001/piano-tiles-auto-clicker](https://github.com/yash3001/piano-tiles-auto-clicker)
+1. ❗️ Closed issue [#1](https://github.com/yash3001/piano-tiles-auto-clicker/issues/1) in [yash3001/piano-tiles-auto-clicker](https://github.com/yash3001/piano-tiles-auto-clicker)
 <!--END_SECTION:activity-->
   <br />
 </details>
