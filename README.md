@@ -73,7 +73,7 @@
   <br />
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/yash3001/piano-tiles-auto-clicker/issues/1) in [yash3001/piano-tiles-auto-clicker](https://github.com/yash3001/piano-tiles-auto-clicker)
+1. ❗️ Opened issue [#129327](https://github.com/microsoft/vscode/issues/129327) in [microsoft/vscode](https://github.com/microsoft/vscode)
 <!--END_SECTION:activity-->
   <br />
 </details>
