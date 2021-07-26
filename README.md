@@ -16,11 +16,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/png/globe-8x.png" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/png/globe.png" />][website]
+[<img align="left" alt="mccoders | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="yash | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="yash | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="yash | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 <br />
@@ -91,10 +91,10 @@
 </p>
 
 [website]: https://yash3001.github.io/mccoders
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: https://twitter.com/ya_ch_sh
 [youtube]: https://www.youtube.com/channel/UCxDr3Ju1Pcbku4Twg38B96w?sub_confirmation=1
 [instagram]: https://www.instagram.com/ya_ch.sh/
-[linkedin]: https://linkedin.com/
+[linkedin]: https://www.linkedin.com/in/yash-chauhan-0774041bb/
 [linux]: https://www.archlinux.org/
 [visual studio]: https://code.visualstudio.com/
 [vim]: https://neovim.io/
