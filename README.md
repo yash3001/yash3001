@@ -4,7 +4,7 @@
 
 <br />
 
-## I'm a Student, Developer, and Youtuber!!
+## 👨‍💻 I'm a Student, Developer, and Youtuber!!
 
 - 🌱 I’m currently learning everything.
 - ⌨️ I like competitive programming(3\* on codechef) and fast typing(100wpm).
@@ -14,7 +14,7 @@
 
 <br />
 
-### Connect with me:
+### 🤝 Connect with me:
 
 [<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/yash3001/yash3001/master/res/website_logo.png" />][website]
 [<img align="left" alt="mccoders | YouTube" width="22px" src="https://raw.githubusercontent.com/yash3001/yash3001/master/res/youtube_logo.png" />][youtube]
@@ -25,7 +25,7 @@
 <br />
 <br />
 
-### Languages and Tools I Use:
+### ⚒️ Languages and Tools I Use:
 
 [<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/yash3001/yash3001/master/res/linux_logo.png" />][linux]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visual studio]
@@ -50,7 +50,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+### 📺 Latest YouTube Videos:
 
 <!-- YOUTUBE:START -->
 - [Easiest Way to Install Kali Linux 2020.4 in Virtual Box on Windows 10 in 2021](https://www.youtube.com/watch?v=4MxvvwEuTtU)
@@ -63,7 +63,7 @@
 ➡️ [more videos...](https://youtube.com/mccoders)
 
 ---
-### Github Stats
+### 📊 Github Stats:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=yash3001&count_private=true&theme=cobalt)
 
