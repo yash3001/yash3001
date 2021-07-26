@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning everything.
 - ⌨️ I like competitive programming(3\* on codechef) and fast typing(100wpm).
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2020 Goals: Ruined by coronavirus.
+- 🥅 2021 Goals: Ruined by coronavirus.
 - ⚡ Fun fact: I use arch linux, btw 😉.
 
 <br />
