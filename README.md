@@ -1,5 +1,7 @@
 <br />
 
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
 ![Screedbot Gif](res/screedbot.gif)
 
 <br />
