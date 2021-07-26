@@ -63,8 +63,9 @@
 ➡️ [more videos...](https://youtube.com/mccoders)
 
 ---
+### Github Stats
 
-![Visitor Count](https://github-readme-stats.vercel.app/api?username=yash3001&count_private=true&theme=cobalt)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=yash3001&count_private=true&theme=cobalt)
 
 ---
 
