@@ -74,7 +74,7 @@
   <br />
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#129327](https://github.com/microsoft/vscode/issues/129327) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. ❗️ Opened issue [#65](https://github.com/geekxh/hello-algorithm/issues/65) in [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm)
 <!--END_SECTION:activity-->
   <br />
 </details>
