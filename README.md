@@ -7,7 +7,7 @@
 ## 👨‍💻 I'm a Student, Developer, and Youtuber!!
 
 - 🌱 I’m currently learning everything.
-- ⌨️ I like competitive programming(3\* on codechef) and fast typing(100wpm).
+- ⌨️ I like competitive programming(3\* on codechef, Pupil on codeforces).
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2021 Goals: Ruined by coronavirus.
 - ⚡ Fun fact: I use arch linux, btw 😉.
