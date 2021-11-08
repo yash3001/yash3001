@@ -56,8 +56,8 @@
 - [Easiest Way to Install Kali Linux 2020.4 in Virtual Box on Windows 10 in 2021](https://www.youtube.com/watch?v=4MxvvwEuTtU)
 - [I Made A Google Meet Bot That Attends My Online Meetings Using Python](https://www.youtube.com/watch?v=vUAe3PhwdqI)
 - [Download Ngrok for Linux in 2021](https://www.youtube.com/watch?v=q22zrumZVyc)
-- [Remove Ads from Among Us Android for Free using Ubuntu and Apktool (2020)](https://www.youtube.com/watch?v=CKLrlZKRahA)
-- [Install Ubuntu 20.04 LTS on VirtualBox in Windows 10 (2020) | VirtualBox Guest Additions](https://www.youtube.com/watch?v=0nNb3xuvT3w)
+- [Remove Ads from Among Us Android for Free using Ubuntu and Apktool &lpar;2020&rpar;](https://www.youtube.com/watch?v=CKLrlZKRahA)
+- [Install Ubuntu 20.04 LTS on VirtualBox in Windows 10 &lpar;2020&rpar; | VirtualBox Guest Additions](https://www.youtube.com/watch?v=0nNb3xuvT3w)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mccoders)
